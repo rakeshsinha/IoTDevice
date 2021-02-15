@@ -1,0 +1,2 @@
+-- This should be a session less thing
+-- Since this is a IoT device so we do not want to deal with logins or sessions
